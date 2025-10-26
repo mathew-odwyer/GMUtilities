@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EventAggregator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EventAggregator",
+  "parent":{
+    "name":"Events",
+    "path":"folders/Extensions/GMUtilities/Events.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
