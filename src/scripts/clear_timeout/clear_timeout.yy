@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"clear_timeout",
   "parent":{
-    "name":"Timers",
-    "path":"folders/Extensions/GMUtilities/Scripts/Timers.yy",
+    "name":"Time",
+    "path":"folders/Extensions/GMUtilities/Scripts/Time.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

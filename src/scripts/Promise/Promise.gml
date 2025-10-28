@@ -1,5 +1,4 @@
 /// @description Represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
-/// @param {Real} timeout The amount of time to pass in milliseconds before the promise is rejected.
 function Promise() constructor
 {
 	/// @type {Function}
