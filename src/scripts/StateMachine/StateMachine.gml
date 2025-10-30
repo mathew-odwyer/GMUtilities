@@ -61,6 +61,13 @@ function StateMachine() constructor
             run_state(state_type.on_enter);
         }
     }
+	
+	/// @description Gets the current state name.
+	/// @returns {String} Returns the name of the current state.
+	get_name = function()
+	{
+		return _state[$ "name"] ?? "";
+	}
 
     /// @description Runs the action associated with the current state.
     /// @param {Enum.state_type} type The type of state action.
